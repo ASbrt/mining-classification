@@ -62,13 +62,13 @@ mines.explore(
 )
 
 # Save HTML
-out_file = output_path / "global_mines_interactive.html"
-m.save(out_file)
+#out_file = output_path / "global_mines_interactive.html"
+#m.save(out_file)
 
 
 # Quick metadata check
-#d = dtale.show(mines)
-#print(d._main_url)
+d = dtale.show(mines)
+print(d._main_url)
 
-#input("D-Tale is running. Press Enter to stop it...")
+input("D-Tale is running. Press Enter to stop it...")
 
