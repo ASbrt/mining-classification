@@ -1,4 +1,4 @@
 [core]
-    remote = gdrive
-['remote "gdrive"']
-    url = gdrive://11QGX-d6HzYbxBirQplmR8y1SwV-w_ZgN
+    remote = nextcloud
+['remote "nextcloud"']
+    url = webdavs://cloud.uni-konstanz.de/remote.php/dav/files/pop552239/mining-classification-data/
