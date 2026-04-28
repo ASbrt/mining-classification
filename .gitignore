@@ -19,3 +19,4 @@ outputs/
 .DS_Store
 Thumbs.db
 /data
+.dvc/config.local
